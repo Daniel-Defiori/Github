@@ -1,0 +1,29 @@
+{
+"OrderID": 19520,
+"Adres": "Ohiggins 1400", 
+"Status": "Ready",
+"Articles": [
+    {"Name": "Call",
+    "Price": 1200,
+    "Quantity": 4,
+    "Dangerouse": false,
+
+},
+{"Name": "Arena",
+"Price": 3000,
+"Quantity": 400
+"Dangerouse":false
+},
+{
+"Name": "Acido Muriatrico",
+"Price": 5000,
+"Quantity": 2,
+"Dangerouse":true,
+},
+
+
+
+]
+
+    
+}
